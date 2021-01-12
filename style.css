@@ -65,24 +65,24 @@ body{
 
 #about_me{
   background-color: white;
-  padding : 50px 100px 50px 100px;
-  margin:0 auto;
+  /* margin:0 auto; */
 
-
+  padding : 50px 200px 50px 200px;
 }
 #Resume{
   height: 800px;
-  background-color: blue;
-  padding-top: 50px;
-  padding-bottom: 50px;
-  margin:0 auto;
+  margin : 50px 200px 50px 200px;
+  background-color: white;
+  border-top: 1px solid #E6E6E6;
+  padding-top:50px;
+
+
 
 }
 #contact{
-  height: 300px;
+  height: 200px;
   background-color: gray;
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding : 50px 200px 50px 200px;
 }
 #about_me .row{
   display:grid;
